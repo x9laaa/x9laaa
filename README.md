@@ -1,39 +1,28 @@
-<h1 align="center">Hi :v:, I am Alex Carreño Madrid</h1>
-<h3 align="center">I am a Web Developer, from Chile </h3>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x9laaa&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="Alex" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x9laaa&show_icons=true&locale=en&theme=tokyonight" alt="alex" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x9laaa&theme=dark" alt="alex" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x9laaa&layout=donut-vertical)](https://github.com/x9laaa/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x9laaa_icons=true&theme=radical)
-
-
 # ¡Hola, soy Alex Carreño Madrid! 👋
 
 ## Acerca de mí
 
-Soy un apasionado [tu profesión o interés principal] con experiencia en [tus habilidades clave]. Me encanta [algo que te apasione, como programar, diseñar, etc.], y disfruto de la resolución de problemas y el aprendizaje constante. En mi tiempo libre, me gusta [tus pasatiempos o intereses adicionales].
+Soy un apasionado desarrollador con experiencia en desarrollo web y móvil. Me encanta crear soluciones innovadoras y aprender nuevas tecnologías. En mi tiempo libre, disfruto explorando nuevos lenguajes de programación y trabajando en proyectos personales.
 
 ## Mis proyectos destacados
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-### [Nombre del Proyecto 1](Enlace al proyecto)
+### [Proyecto de Desarrollo Web](Enlace al proyecto)
 
-Breve descripción del proyecto y por qué es interesante. Puedes incluir tecnologías utilizadas y logros destacados.
+Este proyecto web incluye una descripción breve y tecnologías utilizadas.
 
-![Imagen del Proyecto 1](Enlace a una imagen o GIF del proyecto)
+![Imagen del Proyecto Web](Enlace a una imagen o GIF del proyecto)
 
-### [Nombre del Proyecto 2](Enlace al proyecto)
+### [Aplicación Móvil](Enlace al proyecto)
 
-Breve descripción del proyecto y por qué es interesante. Puedes incluir tecnologías utilizadas y logros destacados.
+Una aplicación móvil que construí utilizando [nombre del framework o plataforma]. Destaco [logros clave o características].
 
-![Imagen del Proyecto 2](Enlace a una imagen o GIF del proyecto)
+![Imagen de la Aplicación Móvil](Enlace a una imagen o GIF del proyecto)
 
 ## Estadísticas de GitHub
 
-[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical)](https://github.com/TU_NOMBRE_DE_USUARIO)
+[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=x9laaa&show_icons=true&theme=radical)](https://github.com/x9laaa)
 
 ## Contacto
 
@@ -43,7 +32,8 @@ Puedes encontrarme en las siguientes redes sociales:
 - [Twitter](Enlace a tu perfil de Twitter)
 - [Correo electrónico](mailto:tu@email.com)
 
-¡No dudes en contactarme si quieres colaborar en proyectos interesantes o simplemente charlar sobre [tu profesión o tema de interés]!
+¡No dudes en contactarme si quieres colaborar en proyectos interesantes o simplemente charlar sobre desarrollo web y móvil!
+
 
 
 <!--

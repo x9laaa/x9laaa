@@ -6,11 +6,11 @@ Soy un apasionado desarrollador con experiencia en desarrollo web y móvil. Me e
 
 ## Estadísticas de GitHub
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=x9laaa&show_icons=true&theme=dracula)
+[![Estadísticas de commits](https://github-readme-stats.vercel.app/api?username=x9laaa&show_icons=true&theme=radical&include_all_commits=true)
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=x9laaa&layout=compact&theme=dracula)](https://github.com/x9laaa)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=x9laaa&layout=compact&theme=radical)](https://github.com/x9laaa)
 
-[![Estadísticas de commits](https://github-readme-stats.vercel.app/api?username=x9laaa&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/x9laaa)
+
 
 
 ## Contacto

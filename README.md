@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-Soy un apasionado desarrollador con experiencia en desarrollo web y móvil. Me encanta crear soluciones innovadoras y aprender nuevas tecnologías. En mi tiempo libre, disfruto explorando nuevos lenguajes de programación y trabajando en proyectos personales.
+Soy un apasionado desarrollador con experiencia en desarrollo web. Me encanta crear soluciones innovadoras y aprender nuevas tecnologías. En mi tiempo libre, disfruto explorando nuevos lenguajes de programación y trabajando en proyectos personales.
 
 <p align="center">
 
@@ -10,7 +10,7 @@ Soy un apasionado desarrollador con experiencia en desarrollo web y móvil. Me e
   
     ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-<br>   
+
     
 - **Front-End Development**:
   
@@ -18,8 +18,7 @@ Soy un apasionado desarrollador con experiencia en desarrollo web y móvil. Me e
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    
-<br>
+
 
 - **Softwares and Tools**:
 - 
@@ -29,6 +28,7 @@ Soy un apasionado desarrollador con experiencia en desarrollo web y móvil. Me e
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+  
 </p>
 
 

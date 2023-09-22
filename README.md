@@ -4,22 +4,6 @@
 
 Soy un apasionado desarrollador con experiencia en desarrollo web y móvil. Me encanta crear soluciones innovadoras y aprender nuevas tecnologías. En mi tiempo libre, disfruto explorando nuevos lenguajes de programación y trabajando en proyectos personales.
 
-## Mis proyectos destacados
-
-Aquí tienes algunos de mis proyectos más destacados:
-
-### [Proyecto de Desarrollo Web](Enlace al proyecto)
-
-Este proyecto web incluye una descripción breve y tecnologías utilizadas.
-
-![Imagen del Proyecto Web](Enlace a una imagen o GIF del proyecto)
-
-### [Aplicación Móvil](Enlace al proyecto)
-
-Una aplicación móvil que construí utilizando [nombre del framework o plataforma]. Destaco [logros clave o características].
-
-![Imagen de la Aplicación Móvil](Enlace a una imagen o GIF del proyecto)
-
 ## Estadísticas de GitHub
 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=x9laaa&show_icons=true&theme=dracula)
@@ -31,11 +15,9 @@ Una aplicación móvil que construí utilizando [nombre del framework o platafor
 Puedes encontrarme en las siguientes redes sociales:
 
 - [LinkedIn](Enlace a tu perfil de LinkedIn)
-- [Twitter](Enlace a tu perfil de Twitter)
-- [Correo electrónico](mailto:tu@email.com)
+- [Correo electrónico](mailto:acrreno95@outlook.com)
 
-¡No dudes en contactarme si quieres colaborar en proyectos interesantes o simplemente charlar sobre desarrollo web y móvil!
-
+¡No dudes en contactarme si quieres colaborar en proyectos interesantes o simplemente charlar sobre desarrollo web!
 
 
 <!--

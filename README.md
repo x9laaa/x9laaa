@@ -10,6 +10,8 @@ Soy un apasionado desarrollador con experiencia en desarrollo web y móvil. Me e
 
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=x9laaa&layout=compact&theme=holi)](https://github.com/x9laaa)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=x9laaa&theme=holi-theme&border_radius=6.8&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 
 

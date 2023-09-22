@@ -22,7 +22,9 @@ Una aplicación móvil que construí utilizando [nombre del framework o platafor
 
 ## Estadísticas de GitHub
 
-[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=x9laaa&show_icons=true&theme=radical)](https://github.com/x9laaa)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=x9laaa&show_icons=true&theme=radical)
+
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=x9laaa&layout=compact&theme=radical)](https://github.com/x9laaa)
 
 ## Contacto
 

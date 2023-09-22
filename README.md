@@ -37,8 +37,6 @@ Soy un desarrollador web con experiencia en Spring Boot y un apasionado por la t
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-    ![Ubuntu Package Version](https://img.shields.io/ubuntu/v/:packageName)
-
   
 </p>
 

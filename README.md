@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x9laaa&layout=donut-vertical)](https://github.com/x9laaa/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x9laaa_icons=true&theme=radical)
+
 <!--
 **x9laaa/x9laaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

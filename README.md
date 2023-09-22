@@ -10,7 +10,7 @@ Soy un apasionado desarrollador con experiencia en desarrollo web y móvil. Me e
 
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=x9laaa&layout=compact&theme=dracula)](https://github.com/x9laaa)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=x9laaa&theme=dracula)
+[![Estadísticas de commits](https://github-readme-stats.vercel.app/api?username=x9laaa&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/x9laaa)
 
 
 ## Contacto

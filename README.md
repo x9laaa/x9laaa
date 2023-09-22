@@ -9,6 +9,8 @@ Soy un desarrollador web con experiencia en Spring Boot y un apasionado por la t
 - ⚙️ Aficionado a la electrónica y proyectos DIY.
 - 🔧 Amante de la reparación y el mantenimiento de dispositivos y gadgets.
 
+
+## Tecnologías que manejo
 <p align="center">
 
 - **Languages**:
@@ -56,4 +58,4 @@ Cuando no estoy programando, me gusta:
 ## Contáctame
 ¡Estoy abierto a colaboraciones y nuevas oportunidades! Si quieres discutir un proyecto, compartir ideas o simplemente charlar sobre tecnología, no dudes en contactarme.
 
-- 📧 Correo electrónico: tu@email.com
+- 📧 Correo electrónico: acarreno95@outlook.com

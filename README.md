@@ -4,7 +4,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x9laaa&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="Alex" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x9laaa&show_icons=true&locale=en&theme=tokyonight" alt="alex" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x9laaa&theme=dark" alt="alex" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x9laaa&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x9laaa&layout=donut-vertical)](https://github.com/x9laaa/github-readme-stats)
 
 <!--
 **x9laaa/x9laaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,12 +10,15 @@ Soy un apasionado desarrollador con experiencia en desarrollo web y móvil. Me e
 
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=x9laaa&layout=compact&theme=dracula)](https://github.com/x9laaa)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=x9laaa&theme=dracula)
+
+
 ## Contacto
 
 Puedes encontrarme en las siguientes redes sociales:
 
 - [LinkedIn](Enlace a tu perfil de LinkedIn)
-- [Correo electrónico](mailto:acrreno95@outlook.com)
+- [Correo electrónico](mailto:acarreno95@outlook.com)
 
 ¡No dudes en contactarme si quieres colaborar en proyectos interesantes o simplemente charlar sobre desarrollo web!
 

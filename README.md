@@ -2,7 +2,7 @@
 
 
 ## Acerca de mí
-Soy un desarrollador web con experiencia en Spring Boot y un apasionado por la tecnología, la electrónica y arreglar cosas. Disfruto explorando el mundo de la programación y construyendo soluciones creativas.
+Me presento como un desarrollador web que está dando sus primeros pasos en Spring Boot, y mi corazón late al ritmo de la tecnología, la electrónica y la satisfacción que proviene de reparar cosas. Mi fascinación por la programación me impulsa a explorar de manera incesante este fascinante mundo, siempre en búsqueda de desafíos y oportunidades para dar vida a soluciones creativas. Considero que cada línea de código escrita es una oportunidad para construir algo valioso y funcional, y eso es lo que más me motiva en este apasionante viaje.
 
 - 💻 Desarrollador web con experiencia en Spring Boot.
 - 🌐 Apasionado por la tecnología y las últimas tendencias en desarrollo web.

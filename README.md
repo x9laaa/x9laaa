@@ -7,7 +7,7 @@ Me presento como un desarrollador web que está dando sus primeros pasos en Spri
 - 💻 Desarrollador web con experiencia en Spring Boot.
 - 🌐 Apasionado por la tecnología y las últimas tendencias en desarrollo web.
 - ⚙️ Aficionado a la electrónica y proyectos DIY.
-- 🔧 Amante de la reparación y el mantenimiento de dispositivos y gadgets.
+- 🔧 Amante de la reparación y el mantenimiento de dispositivos .
 
 
 ## Tecnologías que manejo
